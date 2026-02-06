@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+
+# runtime data
+cache/
+cookies.txt
